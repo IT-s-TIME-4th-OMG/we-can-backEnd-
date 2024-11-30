@@ -59,7 +59,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### Screenshots
 
 <div align="center"> 
-  <img src="https://wecanbucket1028.s3.ap-northeast-2.amazonaws.com/image.png" width="600" alt="screenshot" />
+  <img src="main-screen.png" width="600" alt="screenshot" />
 </div>
 
 
