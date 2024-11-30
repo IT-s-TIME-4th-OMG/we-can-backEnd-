@@ -9,7 +9,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
 
-  <img src="https://wecanbucket1028.s3.ap-northeast-2.amazonaws.com/e2c6c08300378849.png" alt="logo" width="400" height="auto" />
+  <img src="위캔메인로고.png" alt="logo" width="400" height="auto" />
   <h1>벌금 기부를 통한 목표 달성 도모 서비스</h1>
 
   
