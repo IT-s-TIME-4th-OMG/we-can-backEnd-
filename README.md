@@ -104,7 +104,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- API Sheet -->
 ### API Sheet
 - <a href="https://www.notion.so/API-475774be7459434ca0c281a10eb5ecfd">Notion</a>
-- <a href="https://wecanomg.shop/swagger-ui/index.html">Swagger</a>
+- <a href="https://wecanomg.shop/swagger-ui/index.html">Swagger</a> (비용 문제로 서버 운영 중단)
 
 <!-- Features -->
 ### Features
@@ -147,5 +147,5 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 최효성 - https://github.com/hyoseong-Choi -
 
-Project Link: https://wecan-challenge.netlify.app/
+Project Link: https://wecan-challenge.netlify.app/ (비용 문제로 서버 운영 중단)
 
